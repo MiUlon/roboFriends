@@ -3,7 +3,7 @@ import './Scroll.css';
 
 const Scroll = (props) => {
     return (
-        <div class='border'>
+        <div className='border'>
             {props.children}
         </div>
     )
